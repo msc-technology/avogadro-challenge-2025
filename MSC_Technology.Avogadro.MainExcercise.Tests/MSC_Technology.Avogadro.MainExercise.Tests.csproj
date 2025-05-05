@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MSC_Technology.Avogadro.MainExcercise\MSC_Technology.Avogadro.MainExcercise.csproj" />
+    <ProjectReference Include="..\MSC_Technology.Avogadro.MainExcercise\MSC_Technology.Avogadro.MainExercise.csproj" />
   </ItemGroup>
 
 </Project>
