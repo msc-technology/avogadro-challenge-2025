@@ -1,5 +1,9 @@
 # Avogadro Challenge 2025
-Avogadro 2025 - Exercise about OOP and Dijkstra algorithm
+Avogadro 2025 - Exercise about OOP and Dijkstra algorithm  
+  
+Main branch contains the core solution that should be used as starting point.  
+No one should push directly to main.  
+The solution is partially covered with XUnit test, and is mandatory to have them all marked as Passed.
 
 ## Summary:
 MSC needs to calculate the optimal minimum path that a Vessel has to follow in order to reach the port of **Taranto** starting from the port of **Genova**. Since there are many possibilities valuate, it has been decided to represent the connection between each port with a **graph**, and use the **Dijkstra algorithm** to determinate which is the best option between the possible routes.
